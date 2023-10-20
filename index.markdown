@@ -12,5 +12,7 @@ My research interests lie at the fascinating intersection of ML and physics. Dur
 You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), and [Twitter](https://twitter.com/AnnalenaKofler).
 
 # News
-* (October 2023) Moving from Munich to Tübingen. I am excited to start soon at the MPI-IS.
+* (October 2023) Moving from Munich to Tübingen. I am excited to start at the MPI-IS soon.
 * (September 2023) Sucessfully defended my Master's Thesis on "Efficient Sampling from Differentiable Matrix Elements"!
+
+[Imprint/Provider Information]({% link imprint.markdown %})
