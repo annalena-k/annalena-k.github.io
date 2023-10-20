@@ -2,6 +2,7 @@
 layout: page
 title: Imprint / Provider Information
 permalink: /imprint/
+exclude: true
 ---
 The following provides mandatory data concerning the provider of this website, obligations with regard to data protection, as well as other important legal references involving this website as required by German law.
 
