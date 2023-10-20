@@ -1,3 +1,2 @@
-Annalena Kofler
+Personal webpage of Annalena Kofler: annalena-k.github.io
 
-ML Researcher & Physicist
