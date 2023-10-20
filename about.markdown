@@ -10,7 +10,8 @@ Previously, I completed my physics Bachelor's and Master's degree at the Technic
 During my studies, I received a full scholarship by the [Heinrich Böll Foundation](https://www.boell.de/de/stipendien) and the [Max Weber-Program](https://www.boell.de/de/stipendien). During my Bachelor, I was selected for the [RISE-DAAD](https://www.daad.de/rise/en/) scholarship where I worked at [FIMEC](https://fimec.webnode.es/researchers/).
 
 # Community Service
-* (March - October 2023) organized seminar with external speakers for the [Origins Data Science Lab](https://www.origins-cluster.de/en/infrastructure/odsl)
+* (March 2023 - October 2023) organized seminar with external speakers for the [Origins Data Science Lab](https://www.origins-cluster.de/en/infrastructure/odsl)
+* (October 2021 - October 2023) elected as scholarship representative and committee member for the selection of new scholars of the Heinrich Böll Foundation
 
 # Diversity
 I actively work towards a welcoming and encouraging environment for people from marginalized groups in physics, ML, and academia in general. In order to be transparent about my learning and contributing journey, I will keep track of the most recent events I attended and/or organized:
