@@ -4,10 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Annalena and I am an incoming PhD student in Machine Learning at the Max Planck Institute for Intelligent Systems in Tübingen supervised by Bernhard Schölkopf. I will be part of the [IMPRS-IS](https://imprs.is.mpg.de/scholars) graduate program and the interdisciplinary [ELLIS](https://ellis.eu/phd-postdoc) PhD program.
+Hi! My name is Annalena and I am an incoming PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I will be part of the [IMPRS-IS](https://imprs.is.mpg.de/scholars) graduate program and the interdisciplinary [ELLIS](https://ellis.eu/phd-postdoc) PhD program. I will be part of the [IMPRS-IS](https://imprs.is.mpg.de/scholars) graduate program and the interdisciplinary [ELLIS](https://ellis.eu/phd-postdoc) PhD program.
 Previously, I completed my physics Bachelor's and Master's degree at the Technical University of Munich (TUM). For my Master's thesis, I was fortunate to be supervised by [Lukas Heinrich](https://www.lukasheinrich.com), [Michael Kagan](https://sparks.cern/kagan-michael), and [Vincent Stimper](https://is.mpg.de/~vstimper).
 
 During my studies, I received a full scholarship by the [Heinrich Böll Foundation](https://www.boell.de/de/stipendien) and the [Max Weber-Program](https://www.boell.de/de/stipendien). During my Bachelor, I was selected for the [RISE-DAAD](https://www.daad.de/rise/en/) scholarship where I worked at [FIMEC](https://fimec.webnode.es/researchers/).
+
+# Talks and Conferences
+* (June 2023) presented poster at [Nordic Probabilistic AI School](https://probabilistic.ai) supported by a full scholarship of DeepMind
+* (March 2023) presented Master's thesis at the annual meeting of the [German Physical Society](https://www.dpg-physik.de) supported by the scholarship of the [Wilhelm and Else Heraeus Foundation](https://www.we-heraeus-stiftung.de/english/)
 
 # Community Service
 * (March 2023 - October 2023) organized seminar with external speakers for the [Origins Data Science Lab](https://www.origins-cluster.de/en/infrastructure/odsl)
@@ -22,5 +26,6 @@ I actively work towards a welcoming and encouraging environment for people from 
 * (March 2022) attended seminar about classism
 * (October 2021 - 2022) served as student representative of equality council at the TUM physics department and organized regular informal meetings for gender minorities in physics
 * (October 2021) organized networking event for female physics students at TUM
+Since students from marginalized groups face specific challenges and lack support, I decided to exclusively offer mentoring for people from these groups. If you are interested, please contact me via email and explain why you reach out to me, specifically. 
 
 
