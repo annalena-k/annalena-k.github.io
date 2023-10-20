@@ -15,4 +15,4 @@ You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://d
 * (October 2023) Moving from Munich to Tübingen. I am excited to start at the MPI-IS soon.
 * (September 2023) Sucessfully defended my Master's Thesis on "Efficient Sampling from Differentiable Matrix Elements"!
 
-[Imprint/Provider Information]({% link imprint.markdown %})
+[Imprint/Provider Information]({% link imprint/imprint.markdown %})
