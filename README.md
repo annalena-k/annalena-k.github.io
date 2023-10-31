@@ -1,10 +1,12 @@
-Personal webpage of Annalena Kofler: annalenakofler.com
+Personal webpage of Annalena Kofler: [annalenakofler.com](https://www.annalenakofler.com)
 
 # Tutorial: How to create your own website
 
 Summary: The following tutorial explains “How to create a github website with Jekyll”
 
 Prerequisites: Github account, NOT Windows
+
+Since I encountered some challenges when trying to set up my own webpage, I documented my process in this tutorial that extends the cited standard tutorial of github. Additionally, I explain commonly used terms for people that are new to web development. If you find some steps difficult to follow or come across outdated or erroneous information, please contact me via email (firstname.lastname@tuebingen.mpg.de).
 
 ### Steps:
 
