@@ -1,4 +1,4 @@
-Personal webpage of Annalena Kofler: annalena-k.github.io
+Personal webpage of Annalena Kofler: annalenakofler.com
 
 # Tutorial: How to create your own website
 
