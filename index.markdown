@@ -14,6 +14,7 @@ You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://d
 
 
 # News
+* (November 2023) Started my PhD at the Empirical Inference Department! I am looking forward to getting to know all my amazing colleagues.
 * (October 2023) Moving from Munich to Tübingen. I am excited to start at the MPI-IS soon.
 * (September 2023) Sucessfully defended my Master's Thesis on "Efficient Sampling from Differentiable Matrix Elements"!
 
