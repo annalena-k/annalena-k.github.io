@@ -17,7 +17,12 @@ During my studies, I received a full scholarship by the [Heinrich Böll Foundati
 
 I am always intersted in discussing ideas and potential collaborations that align with my research focus. Please reach out via email if you would like to have a chat!
 
+# Teaching
+* (Summer 2024) Organized seminar [Deep Learning for the Natural Sciences](https://cvg.cit.tum.de/teaching/ss2024/dl4science) at TUM
+* (Winter 2021/22) Organized and prepared tutorials and student projects for lecture [Introduction to Neural Networks for Physics Students](https://academics.nat.tum.de/org/mh/details/mod/PH0101/) at TUM
+
 # Talks and Conferences
+* (April 2024) Gave presentation about "Neural Posterior Estimation for Gravitational Waves" during my visit to the University of Nottingham
 * (June 2023) Presented poster at [Nordic Probabilistic AI School](https://probabilistic.ai) supported by a full scholarship of DeepMind
 * (March 2023) Presented Master's thesis at the annual meeting of the [German Physical Society](https://www.dpg-physik.de) supported by the scholarship of the [Wilhelm and Else Heraeus Foundation](https://www.we-heraeus-stiftung.de/english/)
 
