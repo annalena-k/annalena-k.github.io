@@ -8,14 +8,14 @@ layout: home
 
 I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary track of the [ELLIS PhD program](https://ellis.eu/phd-postdoc).
 
-My research interests lie at the fascinating intersection of ML and physics. During my PhD, I am working on deep generative modelling and simulation-based inference for gravitational wave signals.
+My research interests lie at the fascinating intersection of Machine Learning  and physics. During my PhD, I am working on deep generative modelling and simulation based inference for gravitational wave signals.
 
 You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), and [Twitter](https://twitter.com/AnnalenaKofler).
 
 
 # News
 * (May 2024) See you at the [PHYSTAT Workshop on "Simulation Based Inference for Fundamental Physics](https://indico.cern.ch/event/1355601/) in Munich! You can find me at the poster session with my best [poster design](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) so far!
-* (April 2024) I will attend the [AIslands Workshop](https://www.gla.ac.uk/events/conferences/aislands-arran24/) on ML for gravitational wave astronomy and give an [overview presentation](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240424_Presentation_AIslands.pdf) about DINGO.
+* (April 2024) Attended the [AIslands Workshop](https://www.gla.ac.uk/events/conferences/aislands-arran24/) on ML for gravitational wave astronomy and gave an [overview presentation](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240424_Presentation_AIslands.pdf) about DINGO.
 * (November 2023) Started my PhD at the Empirical Inference Department! I am looking forward to getting to know all my amazing colleagues.
 * (October 2023) Moving from Munich to Tübingen. I am excited to start at the MPI-IS soon.
 * (September 2023) Sucessfully defended my Master's Thesis on "Efficient Sampling from Differentiable Matrix Elements"!
