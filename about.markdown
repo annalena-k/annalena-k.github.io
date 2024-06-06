@@ -22,7 +22,9 @@ I am always intersted in discussing ideas and potential collaborations that alig
 * (Winter 2021/22) Organized and prepared tutorials and student projects for lecture [Introduction to Neural Networks for Physics Students](https://academics.nat.tum.de/org/mh/details/mod/PH0101/) at TUM
 
 # Talks and Conferences
-* (April 2024) Gave presentation about "Neural Posterior Estimation for Gravitational Waves" during my visit to the University of Nottingham
+* (May 2024) Presented poster ["DINGO: Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [PHYSTAT Workshop on Simulation Based Inference in Fundamental Physics](https://indico.cern.ch/event/1355601/) in Munich
+* (April 2024) Gave overview talk ["Neural Posterior Estimation with DINGO"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240424_Presentation_AIslands.pdf) at the [AIslands Workshop](https://www.gla.ac.uk/events/conferences/aislands-arran24/) on the Isle of Arran
+* (April 2024) Gave presentation about ["Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240417_Presentation_Group_Meeting_Nottingham.pdf) during my visit to the University of Nottingham
 * (June 2023) Presented poster at [Nordic Probabilistic AI School](https://probabilistic.ai) supported by a full scholarship of DeepMind
 * (March 2023) Presented Master's thesis at the annual meeting of the [German Physical Society](https://www.dpg-physik.de) supported by the scholarship of the [Wilhelm and Else Heraeus Foundation](https://www.we-heraeus-stiftung.de/english/)
 
