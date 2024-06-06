@@ -10,10 +10,9 @@ Previously, I completed my physics Bachelor's and Master's degree at the Technic
 During my studies, I received a full scholarship by the [Heinrich Böll Foundation](https://www.boell.de/de/stipendien) and the [Max Weber-Program](https://www.boell.de/de/stipendien). During my Bachelor, I was selected for the [RISE-DAAD](https://www.daad.de/rise/en/) scholarship that allowed me to do an internship at the University of San Jose under the supervision of [Mariela Porras-Chaverri](https://fimec.webnode.es/researchers/).
 
 # Research Interests
+* Simulation-Based Inference and Neural Posterior Estimation for Gravitational Waves
 * Deep Generative Modelling for Physics
-* Simulation-Based Inference and Differentiable Simulations
-* Posterior Estimation for Gravitational Waves
-* Efficient Event Generation in Particle Physics
+* Differentiable Physics Simulators
 
 I am always intersted in discussing ideas and potential collaborations that align with my research focus. Please reach out via email if you would like to have a chat!
 
