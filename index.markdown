@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="assets/photo_website.jpeg" width="200" style="float: left; margin-right: 2em;">
+<img src="assets/photo_website_new.jpeg" width="200" style="float: left; margin-right: 2em;">
 
 I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary track of the [ELLIS PhD program](https://ellis.eu/phd-postdoc).
 
