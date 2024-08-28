@@ -14,9 +14,9 @@ You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://d
 
 
 # News
+* (September 2024) I'm invited to give a normalizing flows lecture at the [ODSL GenAI Workshop](https://indico.ph.tum.de/event/7722/) in Munich! 
 * (June 2024) Interested in a introduction to [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html)? Here's a [Colab notebook](https://github.com/annalena-k/tutorial-dingo-introduction) to start with.
-* (May 2024) See you at the [PHYSTAT Workshop on "Simulation Based Inference for Fundamental Physics](https://indico.cern.ch/event/1355601/) in Munich! You can find me at the poster session with my best [poster design](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) so far!
-* (April 2024) Attended the [AIslands Workshop](https://www.gla.ac.uk/events/conferences/aislands-arran24/) on ML for gravitational wave astronomy and gave an [overview presentation](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240424_Presentation_AIslands.pdf) about DINGO.
+* (May 2024) See you at the [PHYSTAT Workshop on "Simulation Based Inference for Fundamental Physics](https://indico.cern.ch/event/1355601/) in Munich. You can find me at the poster session with my best [poster design](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) so far!
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Flow matching for gravitational wave detection.<br>From <a href="https://twitter.com/bschoelkopf?ref_src=twsrc%5Etfw">@bschoelkopf</a> and collaborators at Max Planck. <a href="https://t.co/5L1FlBRG4j">https://t.co/5L1FlBRG4j</a></p>&mdash; Yann LeCun (@ylecun) <a href="https://twitter.com/ylecun/status/1804644695391224065?ref_src=twsrc%5Etfw">June 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
