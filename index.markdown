@@ -14,7 +14,7 @@ You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://d
 
 
 # News
-* (September 2024) I'm invited to give a normalizing flows lecture at the [ODSL GenAI Workshop](https://indico.ph.tum.de/event/7722/) in Munich! 
+* (September 2024) I gave a [lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [tutorial](https://github.com/odsl-team/genAI-Days) on normalizing flows at the [ODSL GenAI Workshop](https://indico.ph.tum.de/event/7722/) in Munich. (Of course, we used gravitational waves as an example!) 
 * (June 2024) Interested in a introduction to [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html)? Here's a [Colab notebook](https://github.com/annalena-k/tutorial-dingo-introduction) to start with.
 * (May 2024) See you at the [PHYSTAT Workshop on "Simulation Based Inference for Fundamental Physics](https://indico.cern.ch/event/1355601/) in Munich. You can find me at the poster session with my best [poster design](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) so far!
 
