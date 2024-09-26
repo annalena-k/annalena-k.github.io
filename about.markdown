@@ -17,6 +17,7 @@ During my studies, I received a full scholarship by the [Heinrich Böll Foundati
 I am always intersted in discussing ideas and potential collaborations that align with my research focus. Please reach out via email if you would like to have a chat!
 
 # Teaching
+* (September 2024) Gave invited [lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [tutorial](https://github.com/odsl-team/genAI-Days) on normalizing flows at the [genAI workshop](https://indico.ph.tum.de/event/7722/) in Munich 
 * (Summer 2024) Organized seminar [Deep Learning for the Natural Sciences](https://cvg.cit.tum.de/teaching/ss2024/dl4science) at TUM
 * (Winter 2021/22) Organized and prepared tutorials and student projects for lecture [Introduction to Neural Networks for Physics Students](https://academics.nat.tum.de/org/mh/details/mod/PH0101/) at TUM
 
@@ -28,6 +29,7 @@ I am always intersted in discussing ideas and potential collaborations that alig
 * (March 2023) Presented Master's thesis at the annual meeting of the [German Physical Society](https://www.dpg-physik.de) supported by the scholarship of the [Wilhelm and Else Heraeus Foundation](https://www.we-heraeus-stiftung.de/english/)
 
 # Community Service
+* (Since August 2024) Organizer of [diffusion model journal club](https://github.com/CarlaSa/diffusion_journal_club_24)
 * (Since January 2024) Organizer of [Athena group](https://is.mpg.de/athena-group) meetings at MPI-IS Tübingen
 * (Since November 2023) Serving as mentor for [ApplicAid](https://www.applicaid.org)
 * (March 2023 - October 2023) Organized seminar with external speakers for the [Origins Data Science Lab](https://www.origins-cluster.de/en/infrastructure/odsl)
