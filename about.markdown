@@ -28,6 +28,9 @@ I am always intersted in discussing ideas and potential collaborations that alig
 * (June 2023) Presented poster at [Nordic Probabilistic AI School](https://probabilistic.ai) supported by a full scholarship of DeepMind
 * (March 2023) Presented Master's thesis at the annual meeting of the [German Physical Society](https://www.dpg-physik.de) supported by the scholarship of the [Wilhelm and Else Heraeus Foundation](https://www.we-heraeus-stiftung.de/english/)
 
+# Reviewing
+* NeurIPS Workshop [Machine Learning and the Physical Sciences 2024](https://ml4physicalsciences.github.io/2024/) (4 papers)
+
 # Community Service
 * (Since August 2024) Organizer of [diffusion model journal club](https://github.com/CarlaSa/diffusion_journal_club_24)
 * (Since January 2024) Organizer of [Athena group](https://is.mpg.de/athena-group) meetings at MPI-IS Tübingen
