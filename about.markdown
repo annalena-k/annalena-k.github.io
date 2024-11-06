@@ -22,6 +22,8 @@ I am always intersted in discussing ideas and potential collaborations that alig
 * (Winter 2021/22) Organized and prepared tutorials and student projects for lecture [Introduction to Neural Networks for Physics Students](https://academics.nat.tum.de/org/mh/details/mod/PH0101/) at TUM
 
 # Talks and Conferences
+
+* (October 2024) Presented poster ["DINGO: Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [2nd Tübingen Women in Machine Learning Workshop](https://tuewiml.github.io/news.html) where I won a [WiML NeurIPS travel award for the best poster](https://x.com/tuewiml/status/1848694110804201489)
 * (May 2024) Presented poster ["DINGO: Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [PHYSTAT Workshop on Simulation Based Inference in Fundamental Physics](https://indico.cern.ch/event/1355601/) in Munich
 * (April 2024) Gave overview talk ["Neural Posterior Estimation with DINGO"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240424_Presentation_AIslands.pdf) at the [AIslands Workshop](https://www.gla.ac.uk/events/conferences/aislands-arran24/) on the Isle of Arran
 * (April 2024) Gave presentation about ["Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240417_Presentation_Group_Meeting_Nottingham.pdf) during my visit to the University of Nottingham
