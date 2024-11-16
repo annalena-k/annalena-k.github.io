@@ -10,7 +10,7 @@ I am a PhD student in Machine Learning at the [Max Planck Institute for Intellig
 
 My research interests lie at the fascinating intersection of Machine Learning and physics. During my PhD, I am working on simulation-based inference and neural posterior estimation for gravitational wave signals. I am a developer of the [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html) package.
 
-You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), and [Twitter](https://twitter.com/AnnalenaKofler).
+You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [BlueSky](https://bsky.app/profile/annalenakofler.bsky.social) and [Twitter](https://twitter.com/AnnalenaKofler).
 
 
 # News

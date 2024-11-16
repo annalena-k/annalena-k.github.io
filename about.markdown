@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Annalena and I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary [ELLIS PhD program](https://ellis.eu/phd-postdoc).
+Hi! My name is Annalena (she/her) and I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary [ELLIS PhD program](https://ellis.eu/phd-postdoc).
 Previously, I completed my physics Bachelor's and Master's degree at the Technical University of Munich (TUM). For my Master's thesis, I was fortunate to be supervised by [Lukas Heinrich](https://www.lukasheinrich.com), [Michael Kagan](https://sparks.cern/kagan-michael), and [Vincent Stimper](https://vincentstimper.com).
 
 During my studies, I received a full scholarship by the [Heinrich Böll Foundation](https://www.boell.de/de/stipendien) and the [Max Weber-Program](https://www.boell.de/de/stipendien). During my Bachelor, I was selected for the [RISE-DAAD](https://www.daad.de/rise/en/) scholarship that allowed me to do an internship at the University of San Jose under the supervision of [Mariela Porras-Chaverri](https://fimec.webnode.es/researchers/).
