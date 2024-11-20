@@ -14,7 +14,7 @@ You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://d
 
 
 # News
-* (October 2024) 🔭 We published the amazing paper ["Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels"](https://arxiv.org/abs/2410.21477) lead by [Timmy](https://timothygebhard.de) 
+* (October 2024) 🔭 New paper alert: ["Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels"](https://arxiv.org/abs/2410.21477) lead by [Timmy](https://timothygebhard.de) 
 * (October 2024) 🏆 I received a [WiML NeurIPS travel award](https://x.com/tuewiml/status/1848694110804201489) for the [best poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [2nd Tübingen Women in ML workshop](https://tuewiml.github.io/news.html)
 * (September 2024) 🌊 I gave a [lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [tutorial](https://github.com/odsl-team/genAI-Days) on normalizing flows at the [ODSL GenAI Workshop](https://indico.ph.tum.de/event/7722/) in Munich.
 * (June 2024) 💻 Interested in a introduction to [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html)? Here's a [Colab notebook](https://github.com/annalena-k/tutorial-dingo-introduction) to start with.
