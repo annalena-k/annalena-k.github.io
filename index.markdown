@@ -14,6 +14,7 @@ You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://d
 
 
 # News
+* (December 2024) ✈️  I am attending NeurIPS in Vancouver. Reach out if you want to chat!
 * (November 2024) 🏆 My paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) got selected for a spotlight contributed talk at the NeurIPS workshop _Machine Learning and the Physical Sciences 2024_!
 * (October 2024) 🔭 New paper alert: ["Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels"](https://arxiv.org/abs/2410.21477) lead by [Timmy](https://timothygebhard.de) 
 * (October 2024) 🏆 I received a [WiML NeurIPS travel award](https://x.com/tuewiml/status/1848694110804201489) for the [best poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [2nd Tübingen Women in ML workshop](https://tuewiml.github.io/news.html)
