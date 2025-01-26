@@ -13,7 +13,8 @@ Previously, I completed my physics Bachelor's and Master's degree at the Technic
 * Physics: Gravitational Waves, Particle Physics, Characterization of Exoplanets
 
 If you are interested in my work and have questions or ideas, please reach out via email. I'm always motivated to chat!
-You are looking for a Master's thesis topic at the intersection of ML and physics? Perfect, drop me an email explaining your background, qualifications, and interests. I will try to get back to you quickly.
+
+➡️ _You are looking for a Master's thesis topic at the intersection of ML and physics? Perfect, drop me an email explaining your background, qualifications, and interests. I will try to get back to you quickly._
 
 # Teaching
 * (September 2024) Gave invited [lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [tutorial](https://github.com/odsl-team/genAI-Days) on normalizing flows at the [genAI workshop](https://indico.ph.tum.de/event/7722/) in Munich 
