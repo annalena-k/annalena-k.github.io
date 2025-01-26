@@ -6,14 +6,17 @@ layout: home
 ---
 <img src="assets/photo_website_new.jpeg" width="200" style="float: left; margin-right: 2em;">
 
-I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary track of the [ELLIS PhD program](https://ellis.eu/phd-postdoc).
+I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary track of the [ELLIS PhD program](https://ellis.eu/phd-postdoc) where I am co-supervised by [Alessandra Buonanno].
 
-My research interests lie at the fascinating intersection of Machine Learning and physics. During my PhD, I am working on simulation-based inference and neural posterior estimation for gravitational wave signals. I am a developer of the [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html) package.
+My research focuses on developing and adopting state-of-the-art Machine Learning methods to fascinating physics problems ranging from gravitational waves to particle physics. During my PhD, I am working on simulation-based inference and neural posterior estimation for gravitational wave signals as a developer of the [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html) package.
 
-You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [BlueSky](https://bsky.app/profile/annalenakofler.bsky.social) and [Twitter](https://twitter.com/AnnalenaKofler).
+You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [BlueSky](https://bsky.app/profile/annalenakofler.bsky.social), and [Twitter](https://twitter.com/AnnalenaKofler).
+
+_Are you looking for a Master's thesis topic at the intersection of ML and physics? Perfect, drop me an email explaining your background, qualifications, and interests._
 
 
 # News
+* (January 2025) 🎥 The [recording](https://neurips.cc/virtual/2024/105793) from my ML4PS spotlight talk is online (I don't dare to watch it, but other people might be interested).
 * (December 2024) ✈️  I am attending NeurIPS in Vancouver. Reach out if you want to chat!
 * (November 2024) 🏆 My paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) got selected for a spotlight contributed talk at the NeurIPS workshop _Machine Learning and the Physical Sciences 2024_!
 * (October 2024) 🔭 New paper alert: ["Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels"](https://arxiv.org/abs/2410.21477) lead by [Timmy](https://timothygebhard.de) 
