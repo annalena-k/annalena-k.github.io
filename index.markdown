@@ -8,11 +8,11 @@ layout: home
 
 I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary track of the [ELLIS PhD program](https://ellis.eu/phd-postdoc) where I am co-supervised by [Alessandra Buonanno](https://www.aei.mpg.de/alessandra-buonanno).
 
-My research focuses on developing and adopting state-of-the-art Machine Learning methods to fascinating physics problems ranging from gravitational waves to particle physics. During my PhD, I am working on simulation-based inference and neural posterior estimation for gravitational wave signals as a developer of the [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html) package.
+My research focuses on developing and adopting state-of-the-art Machine Learning methods to fascinating physics problems ranging from gravitational waves 🌌 to particle physics ⚛️. During my PhD, I am working on simulation-based inference and neural posterior estimation for gravitational wave signals as a developer of the [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html) package.
 
 You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [BlueSky](https://bsky.app/profile/annalenakofler.bsky.social), and [Twitter](https://twitter.com/AnnalenaKofler).
 
-_Are you looking for a Master's thesis topic at the intersection of ML and physics? Perfect, drop me an email explaining your background, qualifications, and interests._
+➡️ _Are you looking for a Master's thesis topic at the intersection of ML and physics? Perfect, drop me an email explaining your background, qualifications, and interests._
 
 
 # News
