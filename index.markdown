@@ -6,7 +6,7 @@ layout: home
 ---
 <img src="assets/photo_website_new.jpeg" width="200" style="float: left; margin-right: 2em;">
 
-I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary track of the [ELLIS PhD program](https://ellis.eu/phd-postdoc) where I am co-supervised by [Alessandra Buonanno].
+I am a PhD student in Machine Learning at the [Max Planck Institute for Intelligent Systems in Tübingen](https://is.mpg.de) supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs). I am part of the [IMPRS-IS graduate program](https://imprs.is.mpg.de/scholars) and the interdisciplinary track of the [ELLIS PhD program](https://ellis.eu/phd-postdoc) where I am co-supervised by [Alessandra Buonanno](https://www.aei.mpg.de/alessandra-buonanno).
 
 My research focuses on developing and adopting state-of-the-art Machine Learning methods to fascinating physics problems ranging from gravitational waves to particle physics. During my PhD, I am working on simulation-based inference and neural posterior estimation for gravitational wave signals as a developer of the [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html) package.
 
