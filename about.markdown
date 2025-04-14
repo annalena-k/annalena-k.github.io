@@ -17,6 +17,7 @@ If you are interested in my work and have questions or ideas, please reach out v
 ➡️ _You are looking for a Master's thesis topic at the intersection of ML and physics? Perfect, drop me an email explaining your background, qualifications, and interests. I will try to get back to you quickly._
 
 # Teaching
+* (Summer 2025) Supervising students for the seminar Simulation-based Inference at the University of Tübingen
 * (September 2024) Gave invited [lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [tutorial](https://github.com/odsl-team/genAI-Days) on normalizing flows at the [genAI workshop](https://indico.ph.tum.de/event/7722/) in Munich 
 * (Summer 2024) Organized seminar [Deep Learning for the Natural Sciences](https://cvg.cit.tum.de/teaching/ss2024/dl4science) at TUM
 * (Winter 2021/22) Organized and prepared tutorials and student projects for lecture [Introduction to Neural Networks for Physics Students](https://academics.nat.tum.de/org/mh/details/mod/PH0101/) at TUM
