@@ -16,6 +16,7 @@ You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://d
 
 
 # News
+* (July 2025) 🐦 You want to know what ravens and gravitational waves have in common? Join my talk at the [Soapbox Science Event Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/)!
 * (May 2025) ⚛ My paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://iopscience.iop.org/article/10.1088/2632-2153/addbc1) got accepted at _Machine Learning: Science and Technology_.
 * (January 2025) 🎥 The [recording](https://neurips.cc/virtual/2024/105793) from my ML4PS spotlight talk is online.
 * (December 2024) ✈️  I am attending NeurIPS in Vancouver. Reach out if you want to chat!
