@@ -10,7 +10,7 @@ I am a PhD student in Machine Learning at the [Max Planck Institute for Intellig
 
 My research focuses on developing and adopting state-of-the-art Machine Learning methods to fascinating physics problems ranging from gravitational waves 🌌 to particle physics ⚛️. During my PhD, I am working on simulation-based inference and neural posterior estimation for gravitational wave signals as a developer of the [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html) package.
 
-You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [BlueSky](https://bsky.app/profile/annalenakofler.bsky.social), and [Twitter](https://twitter.com/AnnalenaKofler).
+You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scholar](https://scholar.google.com/citations?user=GOCdveAAAAAJ&hl=de&oi=ao), [💼 LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [🦋 BlueSky](https://bsky.app/profile/annalenakofler.bsky.social), and [🐦Twitter](https://twitter.com/AnnalenaKofler).
 
 ➡️ _Are you looking for a Master's thesis topic at the intersection of ML and physics? Perfect, drop me an email explaining your background, qualifications, and interests._
 
