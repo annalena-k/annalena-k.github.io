@@ -21,9 +21,15 @@ If you are interested in my work and have questions or ideas, please reach out v
 * (September 2024) Gave invited [lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [tutorial](https://github.com/odsl-team/genAI-Days) on normalizing flows at the [genAI workshop](https://indico.ph.tum.de/event/7722/) in Munich 
 * (Summer 2024) Organized seminar [Deep Learning for the Natural Sciences](https://cvg.cit.tum.de/teaching/ss2024/dl4science) at TUM
 * (Winter 2021/22) Organized and prepared tutorials and student projects for lecture [Introduction to Neural Networks for Physics Students](https://academics.nat.tum.de/org/mh/details/mod/PH0101/) at TUM
+  
+# Supervision
+* (September 2025) Supervised high school student intern (see [this tutorial](https://github.com/annalena-k/tutorial_plot_the_first_gravitational_wave))
+* (June - September 2024) Supervised [IRIS-HEP fellow](https://iris-hep.org/fellows/afinitus.html) 
 
 # Talks and Conferences
-* (July 2025) Gave publlic outreach talk at [Soapbox Science Event in Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/) about "Das Flüstern der Raumzeit: Gravitationswellen analysieren mit Maschinellem Lernen" ("The Whisper of Spacetime: Analyzing Gravitational Waves with Machine Learning")
+* (September 2025) Gave invited talk about "Differentiable jet clustering" at the [MIAPbP workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://www.munich-iapbp.de/activities/activities-2025/machine-learning/schedule)
+* (September 2025) Gave invited talk about "Simulation-based inference in gravitational waves" at the [topical workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://indico.ph.tum.de/event/7906/)
+* (July 2025) Gave public outreach talk at [Soapbox Science Event in Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/) about "Das Flüstern der Raumzeit: Gravitationswellen analysieren mit Maschinellem Lernen" ("The Whisper of Spacetime: Analyzing Gravitational Waves with Machine Learning")
 * (July 2025) Gave an invited talk about ["Importance Sampling with DINGO"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250710_tianqin_seminar_dingo_is.pdf) at the TianQin student seminar (remote)
 * (June 2025) Presented high-level [overview](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250604_mpi_is_retreat_EI_department.pdf) about DINGO at the MPI-IS retreat
 * (January 2025) Gave an invited talk on ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) at [Nachman Group](https://nachmangroup.github.io/index.html), Berkley (remote)
@@ -37,6 +43,7 @@ If you are interested in my work and have questions or ideas, please reach out v
 * (March 2023) Presented Master's thesis at the annual meeting of the [German Physical Society](https://www.dpg-physik.de) supported by the scholarship of the [Wilhelm and Else Heraeus Foundation](https://www.we-heraeus-stiftung.de/english/)
 
 # Reviewing
+* NeurIPS Workshop [Machine Learning and the Physical Sciences 2025](https://ml4physicalsciences.github.io/2025/) (3 papers)
 * NeurIPS Workshop [Machine Learning and the Physical Sciences 2024](https://ml4physicalsciences.github.io/2024/) (4 papers)
 
 # Community Service
@@ -50,18 +57,9 @@ If you are interested in my work and have questions or ideas, please reach out v
 I actively work towards a welcoming and encouraging environment for people from marginalized groups in physics, ML, and academia in general. In order to be transparent about my learning and contributing journey, I will keep track of the most recent events I attended and/or organized:
 * (Since August 2024) Mentoring of PhD applicants from underrepresented communities (2024/25: 3 people)
 * (Since January 2024) Organizer of [Athena group](https://is.mpg.de/athena-group) meetings and PhD student representative at Gender Equality Committee of MPI-IS Tübingen
+* (June 2025) Organized Unconscious Bias Training at MPI-IS Tübingen & Stuttgart
 * (January 2025) Organized [#IAMRemarkable Workshop](https://www.rmrkblty.org/iamremarkable) at MPI-IS Tübingen & Stuttgart
 * (December 2024) Attended [19th WiML workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/home) at NeurIPS and talks of diversity seminar series at Tübingen MPI campus
 * (November 2023 - June 2024) Supported students that are disadvantaged in the German education system with their scholarship application through [ApplicAid](https://www.applicaid.org)
-* (March 2024) Participated in "Unconscious Bias Training" offered by the Max Planck Society
-* (June 2023) Organized and conducted training on "How to deal with sexist comments" (repetition), served on "Women's advisory board" for workshop ["Advocates and Allies: Male Allies for Gender Equality"](https://www.zv.tum.de/en/diversity/news-events/news-singleview-en/article/workshop-advocates-and-allies-male-allies-for-gender-equality/)
-* (February 2023) Participated in seminar "Diversity as a reference frame for good leadership" by the [Institute for Social Justice and Radical Diversity](https://institut-social-justice.org) 
-* (November 2022) Organized and conducted training on "How to deal with sexist comments"
-* (October 2022) Organized ["Day of minorities in physics"](https://www.ph.tum.de/about/diversity/gender/events/1/) and "Sharing experiences with sexism"
-* (March 2022) Attended seminar about classism
-* (October 2021 - 2022) Served as student representative of equality council at the TUM physics department and organized regular informal meetings for gender minorities in physics
-* (October 2021) Organized networking event for female physics students at TUM
 
 Since students from marginalized groups face specific challenges and lack support, I decided to exclusively offer mentoring for people from these groups. If you are interested, please contact me via email and explain why you reach out to me, specifically. 
-
-

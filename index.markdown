@@ -16,16 +16,12 @@ You can find me on [Github](https://github.com/annalena-k), [LinkedIn](https://d
 
 
 # News
+* (September 2025) 🌊 I will give two talks at the [MIAPbP workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://www.munich-iapbp.de/activities/activities-2025/machine-learning/schedule), stay tuned!
 * (July 2025) 🐦 You want to know what ravens and gravitational waves have in common? Join my talk at the [Soapbox Science Event Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/)!
 * (May 2025) ⚛ My paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://iopscience.iop.org/article/10.1088/2632-2153/addbc1) got accepted at _Machine Learning: Science and Technology_.
 * (January 2025) 🎥 The [recording](https://neurips.cc/virtual/2024/105793) from my ML4PS spotlight talk is online.
 * (December 2024) ✈️  I am attending NeurIPS in Vancouver. Reach out if you want to chat!
 * (November 2024) 🏆 My paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) got selected for a spotlight contributed talk at the NeurIPS workshop _Machine Learning and the Physical Sciences 2024_!
-* (October 2024) 🔭 New paper alert: ["Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels"](https://arxiv.org/abs/2410.21477) lead by [Timmy](https://timothygebhard.de) 
-* (October 2024) 🏆 I received a [WiML NeurIPS travel award](https://x.com/tuewiml/status/1848694110804201489) for the [best poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [2nd Tübingen Women in ML workshop](https://tuewiml.github.io/news.html)
-* (September 2024) 🌊 I gave a [lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [tutorial](https://github.com/odsl-team/genAI-Days) on normalizing flows at the [ODSL GenAI Workshop](https://indico.ph.tum.de/event/7722/) in Munich.
-* (June 2024) 💻 Interested in a introduction to [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html)? Here's a [Colab notebook](https://github.com/annalena-k/tutorial-dingo-introduction) to start with.
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Flow matching for gravitational wave detection.<br>From <a href="https://twitter.com/bschoelkopf?ref_src=twsrc%5Etfw">@bschoelkopf</a> and collaborators at Max Planck. <a href="https://t.co/5L1FlBRG4j">https://t.co/5L1FlBRG4j</a></p>&mdash; Yann LeCun (@ylecun) <a href="https://twitter.com/ylecun/status/1804644695391224065?ref_src=twsrc%5Etfw">June 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
