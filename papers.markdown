@@ -23,6 +23,12 @@ permalink: /papers/
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [Talk](https://neurips.cc/virtual/2024/105793)
   </span>
+* **Fast and accurate parameter estimation of high-redshift sources with the Einstein Telescope** <br>
+  Filippo Santoliquido, Jacopo Tissino, Ulyana Dupletsa, Marica Branchesi, Jan Harms, Manuel Arca Sedda, Maximilian Dax, **Annalena Kofler**, Stephen R Green, Nihar Gupte, Isobel M Romero-Shaw, Emanuele Berti <br>
+    _preprint_, April 2025 <br>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [arXiv](https://arxiv.org/abs/2504.21087)
+  </span> 
 * **Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels** <br>
   Timothy D. Gebhard, Jonas Wildberger, Maximilian Dax, **Annalena Kofler**, Daniel Angerhausen, Sascha P. Quanz, Bernhard Schölkopf <br>
   Astronomy & Astrophysics, 693 (A42), January 2025. <br>
