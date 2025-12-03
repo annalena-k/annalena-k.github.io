@@ -7,7 +7,7 @@ permalink: /papers/
 # 2025
 * **Flexible Gravitational-Wave Parameter Estimation with Transformers** <br>
     **Annalena Kofler**, Maximilian Dax, Stephen R. Green, Jonas Wildberger, Nihar Gupte, Jakob H. Macke, Jonathan Gair, Alessandra Buonanno, Bernhard Schölkopf <br>
-    Accepted at _[Machine Learning and the Physical Sciences Workshop](https://ml4physicalsciences.github.io/2025/index.html), NeurIPS 2025_ 
+    Accepted at _[Machine Learning and the Physical Sciences Workshop](https://ml4physicalsciences.github.io/2025/index.html), NeurIPS 2025_ <br>
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [arXiv](https://arxiv.org/abs/2512.02968)
   </span> 
