@@ -24,4 +24,6 @@ You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scho
 * (December 2024) ✈️  I am attending NeurIPS in Vancouver. Reach out if you want to chat!
 * (November 2024) 🏆 My paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) got selected for a spotlight contributed talk at the NeurIPS workshop _Machine Learning and the Physical Sciences 2024_!
 
+<img src="assets/poster_DINGO-T1.png">
+
 [Imprint/Provider Information]({% link imprint/imprint.markdown %})
