@@ -5,6 +5,30 @@ permalink: /papers/
 ---
 
 # 2025
+* **Flexible Gravitational-Wave Parameter Estimation with Transformers** <br>
+    **Annalena Kofler**, Maximilian Dax, Stephen R. Green, Jonas Wildberger, Nihar Gupte, Jakob H. Macke, Jonathan Gair, Alessandra Buonanno, Bernhard Schölkopf <br>
+    Accepted at _[Machine Learning and the Physical Sciences Workshop](https://ml4physicalsciences.github.io/2025/index.html), NeurIPS 2025_ 
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [arXiv](https://arxiv.org/abs/2512.02968)
+  </span> 
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [Tutorial](https://github.com/dingo-gw/dingo-T1)
+  </span>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [Models](https://zenodo.org/records/17726076)
+  </span>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [Poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20251203_poster_DINGO-T1.pdf)
+  </span>
+* **Fast and accurate parameter estimation of high-redshift sources with the Einstein Telescope** <br>
+  Filippo Santoliquido, Jacopo Tissino, Ulyana Dupletsa, Marica Branchesi, Jan Harms, Manuel Arca Sedda, Maximilian Dax, **Annalena Kofler**, Stephen R Green, Nihar Gupte, Isobel M Romero-Shaw, Emanuele Berti <br>
+    Physical Review D 112 (10), 103015, November 2025 <br>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [arXiv](https://arxiv.org/abs/2504.21087)
+  </span> 
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [Paper](https://journals.aps.org/prd/abstract/10.1103/wf1k-p5cl)
+  </span> 
 * **Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics** <br>
     **Annalena Kofler**, Vincent Stimper, Mikhail Mikhailenko, Michael Kagan, Lukas Heinrich <br>
     _Machine Learning: Science and Technology, Focus on ML and the Physical Sciences_, May 2025 <br>
@@ -23,12 +47,6 @@ permalink: /papers/
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [Talk](https://neurips.cc/virtual/2024/105793)
   </span>
-* **Fast and accurate parameter estimation of high-redshift sources with the Einstein Telescope** <br>
-  Filippo Santoliquido, Jacopo Tissino, Ulyana Dupletsa, Marica Branchesi, Jan Harms, Manuel Arca Sedda, Maximilian Dax, **Annalena Kofler**, Stephen R Green, Nihar Gupte, Isobel M Romero-Shaw, Emanuele Berti <br>
-    _preprint_, April 2025 <br>
-  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
-    [arXiv](https://arxiv.org/abs/2504.21087)
-  </span> 
 * **Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels** <br>
   Timothy D. Gebhard, Jonas Wildberger, Maximilian Dax, **Annalena Kofler**, Daniel Angerhausen, Sascha P. Quanz, Bernhard Schölkopf <br>
   Astronomy & Astrophysics, 693 (A42), January 2025. <br>

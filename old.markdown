@@ -9,6 +9,7 @@ Old News:
 * (October 2023) Moving from Munich to Tübingen. Looking forward to starting at the MPI soon!
 * (September 2023) Successfully defended my Master's Thesis on "Efficient Sampling from Differentiable Matrix Elements" at TUM
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Flow matching for gravitational wave detection.<br>From <a href="https://twitter.com/bschoelkopf?ref_src=twsrc%5Etfw">@bschoelkopf</a> and collaborators at Max Planck. <a href="https://t.co/5L1FlBRG4j">https://t.co/5L1FlBRG4j</a></p>&mdash; Yann LeCun (@ylecun) <a href="https://twitter.com/ylecun/status/1804644695391224065?ref_src=twsrc%5Etfw">June 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Old information about diversity:
 * (March 2024) Participated in "Unconscious Bias Training" offered by the Max Planck Society
