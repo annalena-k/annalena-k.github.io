@@ -12,7 +12,7 @@ My research focuses on developing and adopting state-of-the-art Machine Learning
 
 You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scholar](https://scholar.google.com/citations?user=GOCdveAAAAAJ&hl=de&oi=ao), [💼 LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [🦋 BlueSky](https://bsky.app/profile/annalenakofler.bsky.social), and [🐦Twitter](https://twitter.com/AnnalenaKofler).
 
-➡️ _Are you looking for a Master's thesis topic at the intersection of ML and physics? Perfect, drop me an email explaining your background, qualifications, and interests._
+➡️ _Are you looking for a Master's thesis topic at the intersection of ML and physics starting in fall 2026? Perfect, drop me an email explaining your background, qualifications, and interests._
 
 
 # News
