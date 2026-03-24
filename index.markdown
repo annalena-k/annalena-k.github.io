@@ -16,6 +16,8 @@ You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scho
 
 
 # News
+* (March 2026) 🏆 I have been selected for the [Lindau Nobel Laureate meeting 2026](https://is.mpg.de/en/news/annalena-kofler-and-daniela-macari-selected-to-join-the-75th-lindau-nobel-laureate-meeting)!
+* (March 2026) 💬 I will give a talk at [Merantix](https://www.merantix-aicampus.com) about [AI for gravitational waves](https://www.merantix-aicampus.com/event/ai4science---ai-for-gravitational-waves)! There will be Pizza 🍕
 * (December 2025) 🌀 New paper available: ["Flexible Gravitational-Wave Parameter Estimation with Transformers"](https://arxiv.org/abs/2512.02968) which got accepted at the NeurIPS workshop _Machine Learning and the Physical Sciences 2025_!
 * (September 2025) 🌊 I will give two talks at the [MIAPbP workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://www.munich-iapbp.de/activities/activities-2025/machine-learning/schedule), stay tuned!
 * (July 2025) 🐦 You want to know what ravens and gravitational waves have in common? Join my talk at the [Soapbox Science Event Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/)!
