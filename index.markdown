@@ -16,7 +16,7 @@ You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scho
 
 
 # News
-* (April 2026) 🤜🤛 Great new papers by my amazing collaborators [Ludwig](https://scholar.google.at/citations?user=i-L7Z_oAAAAJ&hl=de&oi=ao) ([Making biophysics simulations differentiable](https://arxiv.org/abs/2604.02121)) and [Nihar]() ([Using DINGO to obtain eccentricity constraints](https://arxiv.org/abs/2603.29019))!
+* (April 2026) 🤜🤛 Great new papers by my amazing collaborators [Ludwig](https://scholar.google.at/citations?user=i-L7Z_oAAAAJ&hl=de&oi=ao) ([Making biophysics simulations differentiable](https://arxiv.org/abs/2604.02121)) and [Nihar](https://www.aei.mpg.de/person/126460) ([Using DINGO to obtain eccentricity constraints](https://arxiv.org/abs/2603.29019))!
 * (March 2026) 🏆 I have been selected for the [Lindau Nobel Laureate meeting 2026](https://is.mpg.de/en/news/annalena-kofler-and-daniela-macari-selected-to-join-the-75th-lindau-nobel-laureate-meeting)!
 * (March 2026) 💬 I gave a talk at [Merantix](https://www.merantix-aicampus.com) about [AI for gravitational waves](https://www.merantix-aicampus.com/event/ai4science---ai-for-gravitational-waves) which was [recorded](https://youtu.be/EopGKKrtlBM?t=3106).
 * (December 2025) 🌀 New paper available: ["Flexible Gravitational-Wave Parameter Estimation with Transformers"](https://arxiv.org/abs/2512.02968) which got accepted at the NeurIPS workshop _Machine Learning and the Physical Sciences 2025_!
