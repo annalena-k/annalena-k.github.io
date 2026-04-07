@@ -5,6 +5,18 @@ permalink: /papers/
 ---
 
 # 2025
+* **Gradient Estimators for Parameter Inference in Discrete Stochastic Kinetic Models** <br>
+    Ludwig Burger, **Annalena Kofler**, Lukas Heinrich, Ulrich Gerland<br>
+    Preprint <br>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [arXiv](https://arxiv.org/abs/2604.02121)
+  </span>
+* **Eccentricity constraints disfavor single-single capture in nuclear star clusters as the origin of all LIGO-Virgo-KAGRA binary black holes** <br>
+    Nihar Gupte, M. Coleman Miller, Rhiannon Udall, Sophie Bini, Alessandra Buonanno, Jonathan Gair, Aldo Gamboa, Lorenzo Pompili, Antoni Ramos-Buades, Maximilian Dax, Stephen R. Green, **Annalena Kofler**, Jakob Macke, Bernhard Schölkopf<br>
+    Preprint <br>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [arXiv](https://arxiv.org/abs/2603.29019)
+  </span>
 * **Flexible Gravitational-Wave Parameter Estimation with Transformers** <br>
     **Annalena Kofler**, Maximilian Dax, Stephen R. Green, Jonas Wildberger, Nihar Gupte, Jakob H. Macke, Jonathan Gair, Alessandra Buonanno, Bernhard Schölkopf <br>
     Accepted at _[Machine Learning and the Physical Sciences Workshop](https://ml4physicalsciences.github.io/2025/index.html), NeurIPS 2025_ <br>
