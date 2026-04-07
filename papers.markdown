@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-# 2025
+# 2026
 * **Gradient Estimators for Parameter Inference in Discrete Stochastic Kinetic Models** <br>
     Ludwig Burger, **Annalena Kofler**, Lukas Heinrich, Ulrich Gerland<br>
     Preprint <br>
@@ -17,6 +17,7 @@ permalink: /papers/
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [arXiv](https://arxiv.org/abs/2603.29019)
   </span>
+# 2025
 * **Flexible Gravitational-Wave Parameter Estimation with Transformers** <br>
     **Annalena Kofler**, Maximilian Dax, Stephen R. Green, Jonas Wildberger, Nihar Gupte, Jakob H. Macke, Jonathan Gair, Alessandra Buonanno, Bernhard Schölkopf <br>
     Accepted at _[Machine Learning and the Physical Sciences Workshop](https://ml4physicalsciences.github.io/2025/index.html), NeurIPS 2025_ <br>
