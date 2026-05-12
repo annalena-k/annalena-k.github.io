@@ -5,6 +5,12 @@ permalink: /papers/
 ---
 
 # 2026
+* **Neural Posterior Estimation of Terrain Parameters from Radar Sounder Data** <br>
+    Jordy Dal Corso, **Annalena Kofler**, Marco Cortellazzi, Lorenzo Bruzzone, Bernhard Schölkopf<br>
+    Accepted for presentation at [IGARSS 2026---IEEE International Geoscience and Remote Sensing Symposium](https://2026.ieeeigarss.org) <br>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [arXiv](https://arxiv.org/abs/2605.08179)
+  </span>
 * **Gradient Estimators for Parameter Inference in Discrete Stochastic Kinetic Models** <br>
     Ludwig Burger, **Annalena Kofler**, Lukas Heinrich, Ulrich Gerland<br>
     Preprint <br>

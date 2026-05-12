@@ -23,6 +23,7 @@ If you are interested in my work and have questions or ideas, please reach out v
 * (Winter 2021/22) Organized and prepared tutorials and student projects for lecture [Introduction to Neural Networks for Physics Students](https://academics.nat.tum.de/org/mh/details/mod/PH0101/) at TUM
   
 # Supervision
+* (Since November 2025) Master's student
 * (September 2025) Supervised high school student intern (see [this tutorial](https://github.com/annalena-k/tutorial_plot_the_first_gravitational_wave))
 * (June - September 2024) Supervised [IRIS-HEP fellow](https://iris-hep.org/fellows/afinitus.html) 
 

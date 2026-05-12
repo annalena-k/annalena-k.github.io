@@ -12,10 +12,8 @@ My research focuses on developing and adopting state-of-the-art Machine Learning
 
 You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scholar](https://scholar.google.com/citations?user=GOCdveAAAAAJ&hl=de&oi=ao), [💼 LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [🦋 BlueSky](https://bsky.app/profile/annalenakofler.bsky.social), and [🐦Twitter](https://twitter.com/AnnalenaKofler).
 
-➡️ _Are you looking for a Master's thesis topic at the intersection of ML and physics starting in fall 2026? Perfect, drop me an email explaining your background, qualifications, and interests._
-
-
 # News
+* (May 2026) 🔊 One more paper where joining forces across fields leads to cool results: [We obtain full posteriors over Mars surface parameter based on radar sounder data!](https://arxiv.org/abs/2605.08179) Thanks to [Jordy](https://scholar.google.com/citations?user=2vbaCcgAAAAJ&hl=it) for the fun time.
 * (April 2026) 🤜🤛 Great new papers by my amazing collaborators [Ludwig](https://scholar.google.at/citations?user=i-L7Z_oAAAAJ&hl=de&oi=ao) ([Making biophysics simulations differentiable](https://arxiv.org/abs/2604.02121)) and [Nihar](https://www.aei.mpg.de/person/126460) ([Using DINGO to obtain eccentricity constraints](https://arxiv.org/abs/2603.29019))!
 * (March 2026) 🏆 I have been selected for the [Lindau Nobel Laureate meeting 2026](https://is.mpg.de/en/news/annalena-kofler-and-daniela-macari-selected-to-join-the-75th-lindau-nobel-laureate-meeting)!
 * (March 2026) 💬 I gave a talk at [Merantix](https://www.merantix-aicampus.com) about [AI for gravitational waves](https://www.merantix-aicampus.com/event/ai4science---ai-for-gravitational-waves) which was [recorded](https://youtu.be/EopGKKrtlBM?t=3106).
