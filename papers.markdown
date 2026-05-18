@@ -11,6 +11,9 @@ permalink: /papers/
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [arXiv](https://arxiv.org/abs/2605.08179)
   </span>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [Poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260518_poster_radarsounder.pdf)
+  </span>
 * **Gradient Estimators for Parameter Inference in Discrete Stochastic Kinetic Models** <br>
     Ludwig Burger, **Annalena Kofler**, Lukas Heinrich, Ulrich Gerland<br>
     Preprint <br>
