@@ -1,5 +1,5 @@
 Old News:
-* (October 2024) 🔭 New paper alert: ["Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels"](https://arxiv.org/abs/2410.21477) lead by [Timmy](https://timothygebhard.de) 
+* (October 2024) 🔭 New paper alert: ["Flow Matching for Atmospheric Retrieval of Exoplanets: Where Reliability meets Adaptive Noise Levels"](https://arxiv.org/abs/2410.21477) lead by [Timi](https://timothygebhard.de) 
 * (October 2024) 🏆 I received a [WiML NeurIPS travel award](https://x.com/tuewiml/status/1848694110804201489) for the [best poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [2nd Tübingen Women in ML workshop](https://tuewiml.github.io/news.html)
 * (September 2024) 🌊 I gave a [lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [tutorial](https://github.com/odsl-team/genAI-Days) on normalizing flows at the [ODSL GenAI Workshop](https://indico.ph.tum.de/event/7722/) in Munich.
 * (June 2024) 💻 Interested in a introduction to [DINGO](https://dingo-gw.readthedocs.io/en/latest/index.html)? Here's a [Colab notebook](https://github.com/annalena-k/tutorial-dingo-introduction) to start with.
@@ -12,6 +12,13 @@ Old News:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Flow matching for gravitational wave detection.<br>From <a href="https://twitter.com/bschoelkopf?ref_src=twsrc%5Etfw">@bschoelkopf</a> and collaborators at Max Planck. <a href="https://t.co/5L1FlBRG4j">https://t.co/5L1FlBRG4j</a></p>&mdash; Yann LeCun (@ylecun) <a href="https://twitter.com/ylecun/status/1804644695391224065?ref_src=twsrc%5Etfw">June 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Old information about diversity:
+In order to be transparent about my learning and contributing journey, I will keep track of the most recent events I attended and/or organized:
+* (Since August 2024) Mentoring of PhD applicants from underrepresented communities (2024/25: 3 people)
+* (Since January 2024) Organizer of [Athena group](https://is.mpg.de/athena-group) meetings and PhD student representative at Gender Equality Committee of MPI-IS Tübingen
+* (June 2025) Organized Unconscious Bias Training at MPI-IS Tübingen & Stuttgart
+* (January 2025) Organized [#IAMRemarkable Workshop](https://www.rmrkblty.org/iamremarkable) at MPI-IS Tübingen & Stuttgart
+* (December 2024) Attended [19th WiML workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/home) at NeurIPS and talks of diversity seminar series at Tübingen MPI campus
+* (November 2023 - June 2024) Supported students that are disadvantaged in the German education system with their scholarship application through [ApplicAid](https://www.applicaid.org)
 * (March 2024) Participated in "Unconscious Bias Training" offered by the Max Planck Society
 * (June 2023) Organized and conducted training on "How to deal with sexist comments" (repetition), served on "Women's advisory board" for workshop ["Advocates and Allies: Male Allies for Gender Equality"](https://www.zv.tum.de/en/diversity/news-events/news-singleview-en/article/workshop-advocates-and-allies-male-allies-for-gender-equality/)
 * (February 2023) Participated in seminar "Diversity as a reference frame for good leadership" by the [Institute for Social Justice and Radical Diversity](https://institut-social-justice.org) 
