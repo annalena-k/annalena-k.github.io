@@ -12,8 +12,8 @@ My research focuses on developing and adopting state-of-the-art Machine Learning
 
 You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scholar](https://scholar.google.com/citations?user=GOCdveAAAAAJ&hl=de&oi=ao), [💼 LinkedIn](https://de.linkedin.com/in/annalena-kofler-0baa39190), [🦋 BlueSky](https://bsky.app/profile/annalenakofler.bsky.social), and [🐦Twitter](https://twitter.com/AnnalenaKofler).
 
-# News
-2026
+## News
+### 2026
 * (July 2026) 🏆 I received a honourable mention at the [2026 Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/melis-ilayda-bal-wins-2026-mpi-is-outstanding-female-doctoral-student-prize)
 * (July 2026) 🏅 I gave a [talk at 75th the Lindau Nobel Laureate meeting](https://www.mediatheque.lindau-nobel.org/meetings/2026/programme/42971) about ["Decoding Gravitational-Waves with Machine Learning"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260701_decoding_gws_with_ML_lindau_nobel_laureate_meeting.pdf)! Participants voted for their favourite topics based on anonymized abstracts and I'm lucky to be among the top 10% of selected submissions. 
 * (May 2026) 🤩 My paper ["Flexible gravitational-wave parameter estimation with transformers"](https://arxiv.org/abs/2512.02968) got accepted at [Phys. Rev. Lett.](https://journals.aps.org/prl/accepted/10.1103/n3ld-b4wv) and I wrote a[blog post](https://is.mpg.de/en/news/decoding-gravitational-waves-with-machine-learning) about it!
@@ -22,13 +22,14 @@ You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scho
 * (March 2026) 🏆 I have been selected for the [75th Lindau Nobel Laureate meeting](https://is.mpg.de/en/news/annalena-kofler-and-daniela-macari-selected-to-join-the-75th-lindau-nobel-laureate-meeting)!
 * (March 2026) 💬 I gave a talk at [Merantix](https://www.merantix-aicampus.com) about [AI for gravitational waves](https://www.merantix-aicampus.com/event/ai4science---ai-for-gravitational-waves) which was [recorded](https://youtu.be/EopGKKrtlBM?t=3106).
 
-2025
+### 2025
 * (December 2025) 🌀 New paper available: ["Flexible Gravitational-Wave Parameter Estimation with Transformers"](https://arxiv.org/abs/2512.02968) which got accepted at the NeurIPS workshop _Machine Learning and the Physical Sciences 2025_!
 * (September 2025) 🌊 I will give two talks at the [MIAPbP workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://www.munich-iapbp.de/activities/activities-2025/machine-learning/schedule), stay tuned!
 * (July 2025) 🐦 You want to know what ravens and gravitational waves have in common? Join my talk at the [Soapbox Science Event Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/)!
 * (May 2025) ⚛ My paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://iopscience.iop.org/article/10.1088/2632-2153/addbc1) got accepted at _Machine Learning: Science and Technology_.
 * (January 2025) 🎥 The [recording](https://neurips.cc/virtual/2024/105793) from my ML4PS spotlight talk is online.
-2024
+
+### 2024
 * (December 2024) ✈️  I am attending NeurIPS in Vancouver. Reach out if you want to chat!
 * (November 2024) 🏆 My paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) got selected for a spotlight contributed talk at the NeurIPS workshop _Machine Learning and the Physical Sciences 2024_!
 
