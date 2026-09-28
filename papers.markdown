@@ -22,8 +22,7 @@ permalink: /papers/
   </span>
 * **Eccentricity constraints disfavor single-single capture in nuclear star clusters as the origin of all LIGO-Virgo-KAGRA binary black holes** <br>
     Nihar Gupte, M. Coleman Miller, Rhiannon Udall, Sophie Bini, Alessandra Buonanno, Jonathan Gair, Aldo Gamboa, Lorenzo Pompili, Antoni Ramos-Buades, Maximilian Dax, Stephen R. Green, **Annalena Kofler**, Jakob Macke, Bernhard Schölkopf<br>
-    Preprint <br>
-    Published at [_The Astrophysical Journal_](https://iopscience.iop.org/article/10.3847/1538-4357/ae9479)
+    Published at [_The Astrophysical Journal_](https://iopscience.iop.org/article/10.3847/1538-4357/ae9479) <br>
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [arXiv](https://arxiv.org/abs/2603.29019)
   </span>
