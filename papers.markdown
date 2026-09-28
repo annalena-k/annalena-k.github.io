@@ -11,23 +11,23 @@ permalink: /papers/
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [arXiv](https://arxiv.org/abs/2604.02121)
   </span>
-* **Neural Posterior Estimation of Terrain Parameters from Radar Sounder Data** <br>
-    Jordy Dal Corso, **Annalena Kofler**, Marco Cortellazzi, Lorenzo Bruzzone, Bernhard Schölkopf<br>
-    Accepted at [_IGARSS 2026---IEEE International Geoscience and Remote Sensing Symposium_](https://2026.ieeeigarss.org) <br>
-  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
-    [arXiv](https://arxiv.org/abs/2605.08179)
-  </span>
-  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
-    [Poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260518_poster_radarsounder.pdf)
-  </span>
 * **Eccentricity constraints disfavor single-single capture in nuclear star clusters as the origin of all LIGO-Virgo-KAGRA binary black holes** <br>
     Nihar Gupte, M. Coleman Miller, Rhiannon Udall, Sophie Bini, Alessandra Buonanno, Jonathan Gair, Aldo Gamboa, Lorenzo Pompili, Antoni Ramos-Buades, Maximilian Dax, Stephen R. Green, **Annalena Kofler**, Jakob Macke, Bernhard Schölkopf<br>
-    Published at [_The Astrophysical Journal_](https://iopscience.iop.org/article/10.3847/1538-4357/ae9479) <br>
+    Published at The Astrophysical Journal, September 2026 <br>
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [arXiv](https://arxiv.org/abs/2603.29019)
   </span>
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [Paper](https://iopscience.iop.org/article/10.3847/1538-4357/ae9479)
+  </span>
+* **Neural Posterior Estimation of Terrain Parameters from Radar Sounder Data** <br>
+    Jordy Dal Corso, **Annalena Kofler**, Marco Cortellazzi, Lorenzo Bruzzone, Bernhard Schölkopf<br>
+    Presented at [_IGARSS 2026---IEEE International Geoscience and Remote Sensing Symposium_](https://2026.ieeeigarss.org), August 2026 <br>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [arXiv](https://arxiv.org/abs/2605.08179)
+  </span>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [Poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260518_poster_radarsounder.pdf)
   </span>
 * **Flexible Gravitational-Wave Parameter Estimation with Transformers** <br>
     **Annalena Kofler**, Maximilian Dax, Stephen R. Green, Jonas Wildberger, Nihar Gupte, Jakob H. Macke, Jonathan Gair, Alessandra Buonanno, Bernhard Schölkopf <br>
