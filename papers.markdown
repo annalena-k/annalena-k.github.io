@@ -11,6 +11,11 @@ permalink: /papers/
   <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [arXiv](https://arxiv.org/abs/2604.02121)
   </span>
+* **ARENA: Active Region attENtion Aggregation for interpretable solar flare prediction** <br>
+    Luis Bauer, **Annalena Kofler**, Andres Asensio Ramos, Aparna Venkataramanasastry, Valentín Martínez Pillet, Bernhard Schölkopf<br>
+    Accepted at _[Representations for the Physical Sciences Workshop](https://representations-physical-sciences.github.io/workshop-2026/), NeurIPS 2026_ <br>
+  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+  </span>
 * **Eccentricity constraints disfavor single-single capture in nuclear star clusters as the origin of all LIGO-Virgo-KAGRA binary black holes** <br>
     Nihar Gupte, M. Coleman Miller, Rhiannon Udall, Sophie Bini, Alessandra Buonanno, Jonathan Gair, Aldo Gamboa, Lorenzo Pompili, Antoni Ramos-Buades, Maximilian Dax, Stephen R. Green, **Annalena Kofler**, Jakob Macke, Bernhard Schölkopf<br>
     Published at The Astrophysical Journal, September 2026 <br>
@@ -135,4 +140,9 @@ Through my work on DINGO within the LIGO-Virgo-KAGRA collaboration, I have contr
 * **GWTC-5.0: Methods for Identifying and Characterizing Gravitational-wave Transients** <br>
  <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
     [arXiv](https://arxiv.org/abs/2605.27224)
+</span>
+
+* **GWTC-5.0: An Introduction to Version 5.0 of the Gravitational-Wave Transient Catalog ** <br>
+ <span style="border:1px solid #ccc; padding:2px 6px; border-radius:5px; margin-right: 10px; background-color:#f0f0f0; color:#333; font-family:sans-serif;">
+    [arXiv](https://arxiv.org/abs/2605.27223)
 </span>
