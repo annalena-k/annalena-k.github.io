@@ -12,8 +12,9 @@ permalink: /papers/
     [arXiv](https://arxiv.org/abs/2604.02121)
   </span>
 * **ARENA: Active Region attENtion Aggregation for interpretable solar flare prediction** <br>
-    Luis Bauer, **Annalena Kofler**, Andres Asensio Ramos, Aparna Venkataramanasastry, Valentín Martínez Pillet, Bernhard Schölkopf<br>
+    Luis Bauer, **Annalena Kofler**, Andrés Asensio Ramos, Aparna Venkataramanasastry, Valentín Martínez Pillet, Bernhard Schölkopf<br>
     Accepted at _[Representations for the Physical Sciences Workshop](https://representations-physical-sciences.github.io/workshop-2026/), NeurIPS 2026_ <br>
+    [arXiv](https://arxiv.org/abs/2610.32758)
   </span>
 * **Eccentricity constraints disfavor single-single capture in nuclear star clusters as the origin of all LIGO-Virgo-KAGRA binary black holes** <br>
     Nihar Gupte, M. Coleman Miller, Rhiannon Udall, Sophie Bini, Alessandra Buonanno, Jonathan Gair, Aldo Gamboa, Lorenzo Pompili, Antoni Ramos-Buades, Maximilian Dax, Stephen R. Green, **Annalena Kofler**, Jakob Macke, Bernhard Schölkopf<br>
