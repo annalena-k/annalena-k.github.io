@@ -14,6 +14,7 @@ You can find me on [🐙Github](https://github.com/annalena-k), [🎓Google Scho
 
 ## News
 ### 2026
+* (November 2026) I will discuss [how AI4Science might look like in ten years](https://www.merantix-aicampus.com/event/ai4science-5) with [Yoshua Bengio](https://yoshuabengio.org/en), [Lyad Rahwan](https://www.mpib-berlin.mpg.de/staff/iyad-rahwan), [Vincent Stimper](https://vincentstimper.com/), [Patrik Reizinger](https://rpatrik96.github.io/) and others in Berlin.
 * (October 2026) ☀️ The [new paper](https://arxiv.org/abs/2610.32758) by my Master's student Luis about identifying the origin of solar flares on the Sun is accepted at the["Representations for the Physical Sciences Workshop"](https://representations-physical-sciences.github.io/workshop-2026/) at NeurIPS 2026.
 * (July 2026) 🏆 I received a honourable mention at the [2026 Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/melis-ilayda-bal-wins-2026-mpi-is-outstanding-female-doctoral-student-prize)
 * (July 2026) 🏅 I gave a [talk at 75th the Lindau Nobel Laureate meeting](https://www.mediatheque.lindau-nobel.org/meetings/2026/programme/42971) about ["Decoding Gravitational Waves with Machine Learning"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260701_decoding_gws_with_ML_lindau_nobel_laureate_meeting.pdf)! Participants voted for their favourite topics based on anonymized abstracts and I'm lucky to be among the top 10% of selected submissions. 
